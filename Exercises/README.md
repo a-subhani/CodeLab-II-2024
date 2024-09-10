@@ -41,7 +41,7 @@ Independent study is a crucial element of university study and helps solidify an
 Please refer to Minerva for the full brief including marking criteria...
 
 # Exercise 1 - Maths Quiz
-    Your solution must be no more than 250 lines of code.
+#### Your solution must be no more than 250 lines of code.
 Develop a program that presents the user with quiz of arithmetic problems. Each "play" of the quiz should be 10 questions. The user should initially be presented with a short menu of options to select a difficulty level. It could look something like this:
 
     DIFFICULTY LEVEL
@@ -87,7 +87,7 @@ The user should be able to continue requesting new jokes until they decide to qu
 
 &nbsp;
 # Exercise 3 - Student Manager
-Your solution must be no more than 300 lines of code.
+### Your solution must be no more than 250 lines of code.
 
 A list of student marks are held in the studentMarks.txt file available in the resources folder. These need to be loaded into a program to analyse the data. The first line is a single integer that gives the number of students in the class. Each subsequent line of the file comprises a student code (between 1000 and 9999), three course marks (each out of 20) and an examination mark (out of 100).
 
@@ -97,9 +97,7 @@ There is one line of data for each student in the class, with each piece of data
 
 Your task is to create a program that enables the user to manage this data. As a minimum expectation your program should include the following menu and use appropriate programming techniques to handle the functionality required by each menu item.
 
-    ============================================
-    Menu
-    ============================================
+
     1. View all student records
     2. View individual student record
     3. Show student with highest total score
@@ -138,6 +136,10 @@ Identify the student with the highest mark and output their results in same form
 ### 4. Show student with lowest overall mark
 Identify the student with the lowest mark and output their results in same format as menu item 1.
 
+&nbsp;
+Expected output - https://www.loom.com/share/0d255bf19b5f4a35b6d50e63b1a48627?sid=35bb32b8-37c6-409b-87d1-94971282147e
+
+&nbsp;Note : You are free to enhance the aesthetics of the app devloped.
 &nbsp;
 ## Extension Problem
 Your extended solution must be no more than 700 lines of code.
