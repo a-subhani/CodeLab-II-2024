@@ -74,8 +74,8 @@ Your solution must be no more than 100 lines of code.
 
 The randomJokes.txt file in the resources folder contains a dataset of random jokes. Each joke is on a new line and consists of a setup and punchline separated by a question mark. For example:
 
-- Why did the chicken cross the road?To get to the other side.
-- What happens if you boil a clown?You get a laughing stock.
+    - Why did the chicken cross the road?To get to the other side.
+    - What happens if you boil a clown?You get a laughing stock.
   
 &nbsp;
 Write a program that when prompted with the phrase "Alexa tell me a Joke" responds with a random joke from the dataset. The program should first present the setup then allow the user to enter a key to display the punchline.
@@ -104,48 +104,56 @@ Your task is to create a program that enables the user to manage this data. As a
     4. Show student with lowest total score
 
 Below are the expectations for each menu item:
-1. View all student records:
+
+
+                
+### 1. View all student records:
 The program should output the following information for each student:
-Students Name
-Students Number
-Total coursework mark
-Exam Mark
-Overall percentage (coursework and examination marks contributing in direct proportion to the marks
-available i.e. the percentage is based on the potential total of 160 marks).
-Student grade ( ‘A’ for 70%+, ‘B’ for 60%-69%, ‘C’ for 50%-59%, ‘D’ for 40%-49%, ‘F’ for under 40% )
-Once all students have been output you should also output a summary stating the number of students in the
-class and the average percentage mark obtained.
-2. View individual student record
+- Students Name
+- Students Number
+- Total coursework mark
+- Exam Mark
+- Overall percentage (coursework and examination marks contributing in direct proportion to the marks available i.e. the percentage is based on the potential total of 160 marks).
+- Student grade ( ‘A’ for 70%+, ‘B’ for 60%-69%, ‘C’ for 50%-59%, ‘D’ for 40%-49%, ‘F’ for under 40% )
+
+&nbsp;Once all students have been output you should also output a summary stating the number of students in the class and the average percentage mark obtained.
+
+
+### 2. View individual student record
 Allow the user to select a student then output their results as per menu item 1.
 How you enable the user to select the individual student is up to you, this could be done via a menu code:
 
-1. Jake Hobbs
-2. Fred Smith
-3. Jo Huckleberry
-etc...
+    
+    1. Jake Hobbs
+    2. Fred Smith
+    3. Jo Huckleberry
+    etc...
+    
 
-Or by allowing the user to enter a students name and/or student number.
-3. Show student with highest overall mark
+&nbsp;Or by allowing the user to enter a students name and/or student number.
+### 3. Show student with highest overall mark
 Identify the student with the highest mark and output their results in same format as menu item 1.
-4. Show student with lowest overall mark
+### 4. Show student with lowest overall mark
 Identify the student with the lowest mark and output their results in same format as menu item 1.
 
-Extension Problem
+&nbsp;
+## Extension Problem
 Your extended solution must be no more than 700 lines of code.
-For an additional challenge add the following options to your menu
 
-5. Sort student records
-6. Add a student record
-7. Delete a student record
-8. Update a students record
-9. 5. Sort student records
-Allow the user to sort the student records in ascending or descending order then output in the same format
-as menu item 1.
-6. Add a student record
+&nbsp;For an additional challenge add the following options to your menu
+    
+    5. Sort student records
+    6. Add a student record
+    7. Delete a student record
+    8. Update a students record
+    
+### 5. Sort student records
+Allow the user to sort the student records in ascending or descending order then output in the same format as menu item 1.
+### 6. Add a student record
 Add a student with all the required information.
-7. Delete a student record
+### 7. Delete a student record
 Allow the user to select a student by name and/or student code and delete their record from the file.
-8. Update a students record
-Allow the user to select a student by name and/or student code and update their records. You may wish to
-present a sub-menu so the user can pick which item they wish to update.
-Edits made by menu items 6, 7 and 8 need to be reflected in the “studentMarks.txt” file.
+### 8. Update a students record
+Allow the user to select a student by name and/or student code and update their records. You may wish to present a sub-menu so the user can pick which item they wish to update.
+
+&nbsp;Edits made by menu items 6, 7 and 8 need to be reflected in the “studentMarks.txt” file.
