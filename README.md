@@ -1,12 +1,5 @@
-# CodeLab-II-Pyhton Exercises
+# CodeLab-II- Exercises
 
-## Module Overview
-
-CodeLab II extends your knowledge of coding to include object-oriented programming (OOP) and GUI. You build on the  programming techniques acquired in CodeLab I and move towards deploying OOP concepts that enhance the functionality and efficiency of your builds.
-
-Through the course of the module you will be introduced to the use of libraries and Application Programming Interfaces (APIs) to begin developing programmes with Graphic User Interfaces (GUIs). Course content will be delivered through coding exercises and creative briefs that enable you to put newly learnt techniques into practice.
-
-Beyond developing new technical skills, you learn about the software development cycle. Here you form an understanding of how software projects are planned, implemented and maintained in industry. The ultimate aim of CodeLab II is to develop your programming proficiency to the point where you can independently experiment with unfamiliar coding techniques and languages successfully.
 ## Repository Contents
 
 ### Exercises
