@@ -37,6 +37,7 @@ Have you saved your exercises to the correct location and made appropriate use o
 Independent study is a crucial element of university study and helps solidify and extend learning. Additional marks are available for the completion of the following online courses on 
 - SoloLearn - Intermediate Python https://www.sololearn.com/en/learn/courses/python-intermediate
 - Great Learning - Python Tkinter - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-tkinter#fpc-section
+
 &nbsp;
 Please refer to Minerva for the full brief including marking criteria...
 
