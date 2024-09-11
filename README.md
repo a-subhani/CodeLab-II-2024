@@ -20,7 +20,7 @@ This folder contains files required for the file handling tasks as well as some 
 &nbsp;
 ## A2 - Data Driven App
 
-You are required to submit the second Assessment Data driven app here. Also submit your all supporting files, evidence of testing and evidence of design here.
+You are required to submit the second Assessment Data driven app here. Also submit your all supporting files, evidence of testing and evidence of design.
 
 ## 1-2-1 Tutorials
 
