@@ -1,4 +1,8 @@
-# Task for Assessment 2 - DDA:
+# The Brief for Assessment 2 - DDA:
+
+For this assignment you are tasked with developing an application that makes use of data retrieved from an API. Your application should aim to demonstrate a range of programming techniques introduced over the course of CodeLab I and CodeLab II, including use of functions and where appropriate object oriented programming and GUI.
+
+&nbsp;The final application should be delivered via a functioning interactive GUI built using Tkinter. This GUI should allow the user to interact via mouse and/or keyboard input.
 
 You are required to use one of the APIs listed below*:
 - The Movie DB: https://developer.themoviedb.org/*
