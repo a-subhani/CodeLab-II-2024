@@ -41,8 +41,8 @@ Independent study is a crucial element of university study and helps solidify an
 Please refer to Minerva for the full brief including marking criteria...
 
 # Exercise 1 - Maths Quiz
-#### Your solution must be no more than 250 lines of code.
-Develop a program that presents the user with quiz of arithmetic problems. Each "play" of the quiz should be 10 questions. The user should initially be presented with a short menu of options to select a difficulty level. It could look something like this:
+#### Complete the exercise using TKinter
+Develop a GUI using Tkinter that presents the user with quiz of arithmetic problems. Each "play" of the quiz should be 10 questions. The user should initially be presented with a short menu of options to select a difficulty level. It could look something like this:
 
     DIFFICULTY LEVEL
      1. Easy
@@ -72,7 +72,6 @@ The program should include the functions listed below. These functions should ma
  Once the user has finished the quiz, prompt them to see if they'd like to play it again.
 
 # Exercise 2 - Alexa tell me a Joke
-Your solution must be no more than 100 lines of code.
 
 The randomJokes.txt file in the resources folder contains a dataset of random jokes. Each joke is on a new line and consists of a setup and punchline separated by a question mark. For example:
 
@@ -80,7 +79,7 @@ The randomJokes.txt file in the resources folder contains a dataset of random jo
     - What happens if you boil a clown?You get a laughing stock.
   
 &nbsp;
-Write a program that when prompted with the phrase "Alexa tell me a Joke" responds with a random joke from the dataset. The program should first present the setup then allow the user to enter a key to display the punchline.
+Develop a GUI using Tkinter, that when prompted with the phrase "Alexa tell me a Joke" responds with a random joke from the dataset. The program should first present the setup then allow the user to enter a key to display the punchline.
 
 &nbsp;
 The user should be able to continue requesting new jokes until they decide to quit the program.
